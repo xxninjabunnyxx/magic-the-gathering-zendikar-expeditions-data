@@ -1,0 +1,112 @@
+---
+object: card
+id: 2519b6a3-d074-4e9b-a57a-559fae5a8531
+oracle_id: 276cece9-f9f2-46e6-ae76-daddaa2fb9ab
+multiverse_ids:
+- 409572
+mtgo_id: 59703
+mtgo_foil_id: 59704
+tcgplayer_id: 110732
+cardmarket_id: 287035
+name: Kor Haven
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/2519b6a3-d074-4e9b-a57a-559fae5a8531
+scryfall_uri: https://scryfall.com/card/exp/41/kor-haven?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/5/2519b6a3-d074-4e9b-a57a-559fae5a8531.jpg?1562902793
+  normal: https://cards.scryfall.io/normal/front/2/5/2519b6a3-d074-4e9b-a57a-559fae5a8531.jpg?1562902793
+  large: https://cards.scryfall.io/large/front/2/5/2519b6a3-d074-4e9b-a57a-559fae5a8531.jpg?1562902793
+  png: https://cards.scryfall.io/png/front/2/5/2519b6a3-d074-4e9b-a57a-559fae5a8531.png?1562902793
+  art_crop: https://cards.scryfall.io/art_crop/front/2/5/2519b6a3-d074-4e9b-a57a-559fae5a8531.jpg?1562902793
+  border_crop: https://cards.scryfall.io/border_crop/front/2/5/2519b6a3-d074-4e9b-a57a-559fae5a8531.jpg?1562902793
+mana_cost: ''
+cmc: 0.0
+type_line: Legendary Land
+oracle_text: |-
+  {T}: Add {C}.
+  {1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f6ccda04-e8ef-4260-8453-9408d788bacf
+set: exp
+set_name: Zendikar Expeditions
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/f6ccda04-e8ef-4260-8453-9408d788bacf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aexp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/exp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2519b6a3-d074-4e9b-a57a-559fae5a8531/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A276cece9-f9f2-46e6-ae76-daddaa2fb9ab&unique=prints
+collector_number: '41'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jonas De Ro
+artist_ids:
+- 561ebf9e-8d93-4b57-8156-8826d0c19601
+illustration_id: 342994f6-03e3-4630-a53b-6a6c6da8194c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3397
+prices:
+  usd: 
+  usd_foil: '40.96'
+  usd_etched: 
+  eur: 
+  eur_foil: '29.95'
+  tix: '0.33'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409572
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kor+Haven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kor+Haven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kor+Haven
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/110732?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kor+Haven&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/59703?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

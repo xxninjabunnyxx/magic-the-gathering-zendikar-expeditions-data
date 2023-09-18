@@ -1,0 +1,128 @@
+---
+object: card
+id: c13bea32-5dac-4338-b570-bed58109273d
+oracle_id: cfd60d1f-9832-4408-b84e-0fd3018b015b
+multiverse_ids:
+- 409570
+mtgo_id: 59701
+mtgo_foil_id: 59702
+tcgplayer_id: 110728
+cardmarket_id: 287033
+name: Forbidden Orchard
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/c13bea32-5dac-4338-b570-bed58109273d
+scryfall_uri: https://scryfall.com/card/exp/39/forbidden-orchard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/1/c13bea32-5dac-4338-b570-bed58109273d.jpg?1562935860
+  normal: https://cards.scryfall.io/normal/front/c/1/c13bea32-5dac-4338-b570-bed58109273d.jpg?1562935860
+  large: https://cards.scryfall.io/large/front/c/1/c13bea32-5dac-4338-b570-bed58109273d.jpg?1562935860
+  png: https://cards.scryfall.io/png/front/c/1/c13bea32-5dac-4338-b570-bed58109273d.png?1562935860
+  art_crop: https://cards.scryfall.io/art_crop/front/c/1/c13bea32-5dac-4338-b570-bed58109273d.jpg?1562935860
+  border_crop: https://cards.scryfall.io/border_crop/front/c/1/c13bea32-5dac-4338-b570-bed58109273d.jpg?1562935860
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add one mana of any color.
+  Whenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+all_parts:
+- object: related_card
+  id: c672ee51-0e77-463f-8586-191b413c44dd
+  component: token
+  name: Spirit
+  type_line: Token Creature — Spirit
+  uri: https://api.scryfall.com/cards/c672ee51-0e77-463f-8586-191b413c44dd
+- object: related_card
+  id: c13bea32-5dac-4338-b570-bed58109273d
+  component: combo_piece
+  name: Forbidden Orchard
+  type_line: Land
+  uri: https://api.scryfall.com/cards/c13bea32-5dac-4338-b570-bed58109273d
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f6ccda04-e8ef-4260-8453-9408d788bacf
+set: exp
+set_name: Zendikar Expeditions
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/f6ccda04-e8ef-4260-8453-9408d788bacf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aexp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/exp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c13bea32-5dac-4338-b570-bed58109273d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acfd60d1f-9832-4408-b84e-0fd3018b015b&unique=prints
+collector_number: '39'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: 8496db5e-2111-458b-bbf7-b5b8bcfc4b36
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 442
+prices:
+  usd: 
+  usd_foil: '49.21'
+  usd_etched: 
+  eur: 
+  eur_foil: '59.94'
+  tix: '0.53'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409570
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Forbidden+Orchard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Forbidden+Orchard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Forbidden+Orchard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/110728?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forbidden+Orchard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/59701?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 33c519df-c6b1-4e32-92bc-8a67ae5cbaab
+oracle_id: 45181cb8-2090-4471-ba90-e5a8f04d525f
+multiverse_ids:
+- 405106
+mtgo_id: 58873
+mtgo_foil_id: 58874
+tcgplayer_id: 104816
+cardmarket_id: 284411
+name: Sacred Foundry
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/33c519df-c6b1-4e32-92bc-8a67ae5cbaab
+scryfall_uri: https://scryfall.com/card/exp/14/sacred-foundry?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/3/33c519df-c6b1-4e32-92bc-8a67ae5cbaab.jpg?1562905899
+  normal: https://cards.scryfall.io/normal/front/3/3/33c519df-c6b1-4e32-92bc-8a67ae5cbaab.jpg?1562905899
+  large: https://cards.scryfall.io/large/front/3/3/33c519df-c6b1-4e32-92bc-8a67ae5cbaab.jpg?1562905899
+  png: https://cards.scryfall.io/png/front/3/3/33c519df-c6b1-4e32-92bc-8a67ae5cbaab.png?1562905899
+  art_crop: https://cards.scryfall.io/art_crop/front/3/3/33c519df-c6b1-4e32-92bc-8a67ae5cbaab.jpg?1562905899
+  border_crop: https://cards.scryfall.io/border_crop/front/3/3/33c519df-c6b1-4e32-92bc-8a67ae5cbaab.jpg?1562905899
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Mountain Plains
+oracle_text: |-
+  ({T}: Add {R} or {W}.)
+  As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+colors: []
+color_identity:
+- R
+- W
+keywords: []
+produced_mana:
+- R
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f6ccda04-e8ef-4260-8453-9408d788bacf
+set: exp
+set_name: Zendikar Expeditions
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/f6ccda04-e8ef-4260-8453-9408d788bacf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aexp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/exp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/33c519df-c6b1-4e32-92bc-8a67ae5cbaab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A45181cb8-2090-4471-ba90-e5a8f04d525f&unique=prints
+collector_number: '14'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Noah Bradley
+artist_ids:
+- 81995d11-da98-4f8b-89bd-b88ca2ddb06b
+illustration_id: ba1ca30f-6adc-46dc-86ba-51d69b97f04d
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 88
+prices:
+  usd: 
+  usd_foil: '95.82'
+  usd_etched: 
+  eur: 
+  eur_foil: '63.00'
+  tix: '3.46'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sacred+Foundry&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sacred+Foundry&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sacred+Foundry
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104816?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sacred+Foundry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58873?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
